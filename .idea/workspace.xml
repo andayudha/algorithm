@@ -2,20 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5845312a-8077-438e-92ba-3ffee8ce0e48" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/Practice1.java" afterPath="$PROJECT_DIR$/src/practice/Practice1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/Practice2.java" afterPath="$PROJECT_DIR$/src/practice/Practice2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/practice/ShortestPath.java" afterPath="$PROJECT_DIR$/src/practice/ShortestPath.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Bridge.txt" afterPath="$PROJECT_DIR$/assets/Bridge.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Djiskstra.txt" afterPath="$PROJECT_DIR$/assets/Djiskstra.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/coloring.txt" afterPath="$PROJECT_DIR$/assets/coloring.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/graph.txt" afterPath="$PROJECT_DIR$/assets/graph.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/graph2.txt" afterPath="$PROJECT_DIR$/assets/graph2.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/graph3.txt" afterPath="$PROJECT_DIR$/assets/graph3.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/graph4.txt" afterPath="$PROJECT_DIR$/assets/graph4.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/graph5.txt" afterPath="$PROJECT_DIR$/assets/graph5.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/graph6.txt" afterPath="$PROJECT_DIR$/assets/graph6.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tinny.txt" afterPath="$PROJECT_DIR$/assets/tinny.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/untitled.gmf" afterPath="$PROJECT_DIR$/assets/untitled.gmf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/AndaGraph$DFSCycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/AndaGraph$DirectedCycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/AndaGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Bridge$CC.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Bridge$MyGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Bridge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Coloring$AndaGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Coloring$TwoColoring.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Coloring.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Connectivity$AndaGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Connectivity$Connected.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Connectivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/DFS.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/DirectedCycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Hamilton2$Connected.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Hamilton2$HamiltonDua.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Hamilton2$MyGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Hamilton2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/HamiltonProblem$Connected.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/HamiltonProblem$MyGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/HamiltonProblem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/LazyPrimMST$AndaList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/LazyPrimMST$Edge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/LazyPrimMST$LazyPrim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/LazyPrimMST$WGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/LazyPrimMST.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/LolGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/UndirectedCycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/UndirectedPath$AndaGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/UndirectedPath$AndaList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/UndirectedPath$BFSPath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/com/company/UndirectedPath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/data_structure/IndexMinPQ$HeapIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/data_structure/IndexMinPQ.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/data_structure/MinPQ$HeapIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/data_structure/MinPQ.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/data_structure/MyList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/data_structure/MyQeueu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/data_structure/MyStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/data_structure/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/data_structure/Util.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice1$AndaGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice1$AndaList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice1$Coloring.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice1$Connected.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice1$Cycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice1$Path.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice2$AndaGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice2$AndaList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice2$DirectedCycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice2$DirectedPath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/Practice2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/ShortestPath$AndaList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/ShortestPath$Djikstra.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/ShortestPath$Edge.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/ShortestPath$WGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GraphProjects/practice/ShortestPath.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -229,20 +274,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GraphProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GraphProjects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -520,7 +551,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -537,7 +567,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12447917" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12447917" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
