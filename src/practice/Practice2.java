@@ -23,7 +23,7 @@ public class Practice2 {
         System.out.println(Util.isPrime(37));
 
         try {
-            Scanner sc = new Scanner(new File("graph6.txt"));
+            Scanner sc = new Scanner(new File("assets/graph6.txt"));
 //            Scanner sc = new Scanner(System.in);
             int T = sc.nextInt();
             for(int test_case = 0; test_case < T; test_case++) {

@@ -12,7 +12,7 @@ public class Practice1 {
 
     public static void main(String[] args) {
         try {
-            Scanner sc = new Scanner(new File("graph5.txt"));
+            Scanner sc = new Scanner(new File("assets/graph5.txt"));
 //            Scanner sc = new Scanner(System.in);
             int T = sc.nextInt();
             for(int test_case = 0; test_case < T; test_case++) {

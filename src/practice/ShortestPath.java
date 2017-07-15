@@ -16,7 +16,7 @@ public class ShortestPath {
 
     public static void main(String[] args) {
         try {
-            Scanner sc = new Scanner(new File("Djiskstra.txt"));
+            Scanner sc = new Scanner(new File("assets/Djiskstra.txt"));
 //            Scanner sc = new Scanner(System.in);
             int T = sc.nextInt();
             for(int test_case = 0; test_case < T; test_case++) {
