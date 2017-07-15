@@ -1,0 +1,10 @@
+2
+
+E
+AB
+CE
+DB
+EC
+
+B
+AB
